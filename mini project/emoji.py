@@ -20,7 +20,7 @@ def text_to_emoji(input_text):
          "Umbrella":"☔",
          "Star":"⭐",
          "Panda":"🐼",
-         "🦊": "Fox",
+         "Fox": "🦊",
          "Eye":"👀",
          "Bone":"🦴",
          "Chicken":"🐣",
